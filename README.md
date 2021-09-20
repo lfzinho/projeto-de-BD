@@ -18,6 +18,6 @@ Ademais, também foi feita uma delimitação dos biomas, baseado em um mapa dos 
 
 Por fim, foi feito um mapa para as religiões. Como as religiões são totalmente fictícias, não utilizamos uma base. Ao invés disso, dividimos o mapa em cinco regiões aleatórias. Feito isso, realizamos a análise do mapa principal com o de religião para conseguirmos os dados mais exatos. Segue a imagem da divisão de religião.
 
-![imagem das religiões](https://raw.githubusercontent.com/lfzinho/projeto-de-BD/master/biomas.png)
+![imagem das religiões](https://raw.githubusercontent.com/lfzinho/projeto-de-BD/master/religiões.png)
 
 A relação entre países foi feita a partir da ferramenta antes mencionada e a decisão de comércio foi feita com base nos biomas principais de uma nação. A linguagem foi escolhida arbitrariamente. 
